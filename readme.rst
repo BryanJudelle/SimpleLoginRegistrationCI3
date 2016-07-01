@@ -27,7 +27,7 @@ Installation
 1. Export SQL dump files into your localhost/server database.
    if you have password set for your database. please update the
    application/config/database.
-     password.
+     password = 'your password'
 2. Run it via localhost/registration
 
 
