@@ -4,7 +4,7 @@
 * @author: Bryan Judelle Ramos
 * @date June 27, 2016
 *
-* 	This library that contains simple encryption using salt + sha256.
+* 	This library contains simple encryption using salt + sha256.
 *
 */
 
